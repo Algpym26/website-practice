@@ -3,6 +3,7 @@
 Short project description goes here.
 
 ## Table of Contents
+
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
@@ -29,6 +30,7 @@ Provide guidelines for others to contribute to your project.
 Acknowledgements: Acknowledge any external libraries, tools, or contributions that you've used or received.
 
 ## Contact Information
+
 Contact Information: Provide a way for users and contributors to contact you or the project team.
 
 ## License
