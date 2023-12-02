@@ -35,6 +35,6 @@ Contact Information: Provide a way for users and contributors to contact you or 
 
 ## License
 
-This project is licensed under the [Your License] - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the [Brainbalancestudio.com] - see the [LICENSE.md](LICENSE.md) file for details.
 
 © 2024 StarDust8910. Confidential and Proprietary. All Rights Reserved.
