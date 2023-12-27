@@ -23,7 +23,7 @@ Usage Examples: Include examples and code snippets to demonstrate how users can 
 ## Features
 
 Highlight the key features of your project.
-
+adding links to social media and google search including booking on line
 ## Contributing
 
 Provide guidelines for others to contribute to your project.
