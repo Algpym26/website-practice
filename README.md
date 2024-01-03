@@ -2,7 +2,6 @@
 
 <!-- Short project description goes here. -->
 
-
 ## Table of Contents
 
 - [Installation](#installation)
@@ -34,7 +33,7 @@ Acknowledgements: Acknowledge any external libraries, tools, or contributions th
 ## Contact Information
 
 <!-- Contact Information: Provide a way for users and contributors to contact you or the project team. -->
-8910Stardust@gmail.com 
+<8910Stardust@gmail.com>
 
 ## License
 
